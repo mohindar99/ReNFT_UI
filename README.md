@@ -1,3 +1,18 @@
+# Introduction 
+This project was build to create the front-end part of the smart contract which is used for renting NFT's .
+
+# Requirements 
+- ReactJS
+- Material UI
+
+## Steps to Run the project :
+- Download the source code in rar format .
+- Extract the file and copy the specified path .
+- open the folder in the visual studio code .
+- In the terminal enter the command "npm install" for downloading all the dependencies of the project .
+- Run the project bu using the command "npm start"
+- The project final rendering is present in the files of the code .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
