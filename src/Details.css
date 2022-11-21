@@ -1,0 +1,40 @@
+.details-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.details-left-container{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-right-container{
+    height: 100%;
+    width: 50%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #ebeef0a6;
+    padding: 0% 5%;
+}
+
+.values-container{
+    width: '100%';
+}
+
+.values{
+    width: '100%';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    margin: 2% 0%;
+}
+
+.grey-color{
+    color: #b4bbbf;
+}
